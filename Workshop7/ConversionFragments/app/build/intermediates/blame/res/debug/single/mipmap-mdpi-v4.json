@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\home\\brian\\Documents\\Projects\\s16-android-beginner\\Workshop6\\ConversionFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\home\\brian\\Documents\\Projects\\s16-android-beginner\\Workshop6\\ConversionFragments\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Brian\\Downloads\\Workshop6\\ConversionFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Brian\\Downloads\\Workshop6\\ConversionFragments\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\College\\Workshop7\\Workshop7\\ConversionFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\College\\Workshop7\\Workshop7\\ConversionFragments\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Brian\\Downloads\\Workshop7\\ConversionFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Brian\\Downloads\\Workshop7\\ConversionFragments\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

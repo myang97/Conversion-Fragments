@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\College\\Workshop7\\Workshop7\\ConversionFragments\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fade_in.xml",
+        "source": "C:\\College\\Workshop7\\Workshop7\\ConversionFragments\\app\\src\\main\\res\\animator\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\College\\Workshop7\\Workshop7\\ConversionFragments\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fade_out.xml",
+        "source": "C:\\College\\Workshop7\\Workshop7\\ConversionFragments\\app\\src\\main\\res\\animator\\fade_out.xml"
+    }
+]

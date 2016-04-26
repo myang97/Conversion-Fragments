@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="length_names">
+        <item>Inches</item>
+        <item>Yards</item>
+        <item>Miles</item>
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Kilometers</item>
+        <item>Smoots</item>
+    </string-array>
+    <array name="length_rates">
+        <item>12.0</item>
+        <item>0.333333333</item>
+        <item>0.000189394</item>
+        <item>30.48</item>
+        <item>0.3048</item>
+        <item>0.0003048</item>
+        <item>0.179104</item>
+    </array>
+
+    <string-array name="weight_names">
+        <item>Ounces</item>
+        <item>Tons</item>
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Baby Elephants</item>
+    </string-array>
+    <array name="weight_rates">
+        <item>16</item>
+        <item>0.0005</item>
+        <item>453.592</item>
+        <item>0.453592</item>
+        <item>0.0045</item>
+    </array>
+
+    <string-array name="speed_names">
+        <item>ft/s</item>
+        <item>m/s</item>
+        <item>km/h</item>
+    </string-array>
+    <array name="speed_rates">
+        <item>1.46667</item>
+        <item>0.44704</item>
+        <item>1.60934</item>
+    </array>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center_horizontal"
+              android:orientation="vertical"
+              android:background="@android:color/white"
+              android:padding="16dp">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.Workshop7.Title"
+        tools:text="Length (ft)"
+        />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical">
+
+        <!-- TODO 2. This doesn't quite look right. -->
+        <Button
+            android:id="@+id/convert_button"
+            style="@style/ButtonStyle"
+            android:layout_alignParentRight="true"
+            android:text="Convert"/>
+
+        <EditText
+            android:id="@+id/amount_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/convert_button"
+            android:hint="Enter amount here"
+            android:inputType="numberDecimal"/>
+    </RelativeLayout>
+
+    <TextSwitcher
+        android:id="@+id/amount_text_switcher"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!-- TODO 3. Let's make these TextViews look similar to the other ones. -->
+        <TextView
+            style="@style/AppTheme.TextSwitcherStyle"
+            tools:text="0.00 lbs equals" />
+        <TextView
+            style="@style/AppTheme.TextSwitcherStyle"/>
+    </TextSwitcher>
+
+    <ListView
+        android:id="@+id/conversion_list"
+        style="@style/AppTheme.ListView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"/>
+
+</LinearLayout>
